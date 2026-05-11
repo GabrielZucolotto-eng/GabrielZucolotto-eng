@@ -1,16 +1,23 @@
-## Hi there 👋
+# Gabriel Zucolotto 👋
 
-<!--
-**GabrielZucolotto-eng/GabrielZucolotto-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student  
+🚀 Building real projects and improving every day
 
-Here are some ideas to get you started:
+## About Me
+Passionate about technology and software development, always building projects and learning new skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## Projects
+🔹 CodTranslator  
+🔹 Barber Prime  
+🔹 Responsive Web Projects
+
+## Contact
+📍 Vila Velha, ES — Brazil  
+🔗 LinkedIn
+📧 seuemail@gmail.com
